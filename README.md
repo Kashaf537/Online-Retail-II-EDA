@@ -55,7 +55,7 @@ online_retail_II.xlsx
 
 ```text
 Online-Retail-II-EDA/
-│
+│---requirements.txt
 ├── Online_Retail_II_EDA.ipynb
 ├── README.md
 └── data/
