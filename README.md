@@ -58,7 +58,9 @@ Online-Retail-II-EDA/
 │
 ├── Online_Retail_II_EDA.ipynb
 ├── README.md
-└──  online_retail_II.xlsx
+└── data/
+    |
+    online_retail_II.xlsx
 ```
 
 ---
@@ -89,7 +91,7 @@ Download the dataset from the **Google Drive** link provided above.
 
 ### 5. Place the dataset
 
-Copy the downloaded file into the project directory.
+Copy the downloaded file into the data folder in project directory.
 
 ### 6. Open the notebook
 
